@@ -99,6 +99,8 @@ Sin embargo, se queria tener la posibilidad de relaizar pruebas en un entorno m�
 
 Gracias a la investigación de Bastille se dispone de una lista bastante numerosa de dispositios vulnerables. LLama la atención el dispositivo k400r el cual acumula las 6 vulnerabilidades diferentes bajo su nombre en la lista de Bastille y por suerte estaba disponible en el mercado de segunda mano.
 
+![vulnerable-device-list](media/dv-list.png)
+
 
 ### Desarrollando un sniffer de direcciones
 
